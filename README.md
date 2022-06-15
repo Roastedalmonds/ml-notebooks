@@ -1,1 +1,2 @@
-# ML_home
+# Machine Learning Mini-Projects
+
